@@ -14,7 +14,7 @@ setup(
     description='Library to read data from Redmind SkyKettle kettles',
     long_description=readme(),
     long_description_content_type='text/markdown',
-    # url='https://github.com/open-homeautomation/miflora',
+    url='https://github.com/mrukavishnikov/SkyKettle',
     author='Mihail Rukavishnikov',
     author_email='mihail.rukavishnikov@gmail.com',
     license='MIT',
